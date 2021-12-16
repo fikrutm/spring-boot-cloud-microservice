@@ -54,5 +54,3 @@ Update: Upgraded to Java 11 and Graph QL to 5+ version dependency
  }
 ```
 
-![Capture](https://user-images.githubusercontent.com/21150740/146417905-093df906-e9c2-4880-867f-65314e432bca.JPG)
-
